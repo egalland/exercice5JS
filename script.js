@@ -12,7 +12,6 @@ function calcul(){
     }else{
       // MULTIPLICATION
       firstNumber = Math.floor(firstNumber);
-      secondNumber = Math.floor(secondNumber);
       var result = firstNumber * secondNumber;
       // OUVERTURE D'UNE BOITE DE DIALOGUE AVEC LE RESULTAT
       alert(result);
